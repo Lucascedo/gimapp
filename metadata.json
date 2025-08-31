@@ -1,0 +1,5 @@
+{
+  "name": "Gym Management Pro",
+  "description": "An advanced information management application for gyms. It handles profiles for teachers, students, and staff, and includes a developer mode with application editing tools to dynamically generate new information windows.",
+  "requestFramePermissions": []
+}
